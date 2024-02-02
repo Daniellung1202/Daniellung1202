@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Chih-Jui, Lung, but you can call me Daniel. Currently, I'm pursuing master’s degree in Materials Science and Engineering at the University of Michigan-Ann Arbor. 
-- 👀 I’m interested in semiconductor process technology. 
+- 👀 I’m interested in semiconductor process technology.
+- 🙋🏻‍♂️ Personality: Embrace challenges and try new things. Motto: Practice makes perfect.
 - ⚡ About me:
 
 I am deeply passionate about the semiconductor industry. My motivation stems from completing the "Advanced technologies for CMOS semiconductor materials and memory integration Certificate" at the Taiwan Semiconductor Research Institution, where I enhanced my understanding of advanced semiconductor materials.
